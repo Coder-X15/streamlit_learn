@@ -1,3 +1,11 @@
 import streamlit as st
 
-st.write('Hello world!')
+webpage = '''
+## Hey all!
+Welcome to my silly-ahh webpage. Yeah, as a guy who prefers Markdown over HTML, I prefer Streamlit.
+
+$ e = mc^2$
+
+'''
+
+st.write(webpage)
