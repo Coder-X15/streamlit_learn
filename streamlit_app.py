@@ -9,4 +9,3 @@ $ e = mc^2$
 '''
 
 st.write(webpage)
-st.video(data = "./media/shrek-5-2021-first-official-trailer-leaked-ytshorts.savetube.me.mp4")
